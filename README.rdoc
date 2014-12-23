@@ -1,0 +1,18 @@
+This application is related to creating a backend for applications.
+It offers an api for sending text messages to mobile phones from
+the backend.
+
+For Voice
+
+curl -X GET http://your host/twilio/voice
+
+
+For Message
+
+curl -X GET http://your host/twilio/notify
+
+
+
+Ref: https://www.twilio.com/blog/2014/10/twilio-on-rails-part-2-rails-4-app-sending-sms-mms.html
+
+

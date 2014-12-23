@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3674565216">
+    <data-source source="LOCAL" name="Rails twilio_app: development" uuid="e9ce0756-5e04-41f5-968a-d5b93b01110a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:twil_db</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails twilio_app: test" uuid="fafa9e47-4959-413a-8f53-ebaaae8cb7da">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:twil_db</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails twilio_app: production" uuid="b84f7212-1d5b-48de-94bf-be78cdbd81bd">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:twil_db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
